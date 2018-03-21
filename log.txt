@@ -1,0 +1,5 @@
+commit 20478a0fb1421c236e08b2bf47b2681693441b50 (HEAD -> logging, origin/master, master)
+Author: unknown <gordana.ristova@students.finki.ukim.mk>
+Date:   Wed Mar 21 18:46:49 2018 +0100
+
+    Initial commit
